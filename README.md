@@ -1,5 +1,6 @@
 # solar-skies-v1
 
+This project is currently work-in-progress. 
 This script uses OpenCV to detect sprites in the game and input keys appropriately.
 
 Requirements:
