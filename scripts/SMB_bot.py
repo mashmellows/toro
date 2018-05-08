@@ -7,6 +7,7 @@ import time
 import win32api
 import win32com.client
 
+#TESTING 
 goomba = cv2.CascadeClassifier('goomba.xml')
 cap = cv2.VideoCapture(0)
 
